@@ -2,6 +2,8 @@ http://nikolaev-web.ru/blog/installing_the_composer_on_openServer/
 
 
 php spark serve or php spark serve --host cimapi.lt
+
+composer require firebase/php-jwt
   
 # CodeIgniter 4 Application Starter
 
