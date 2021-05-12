@@ -1,4 +1,8 @@
 http://nikolaev-web.ru/blog/installing_the_composer_on_openServer/
+
+
+php spark serve or php spark serve --host cimapi.lt
+  
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
